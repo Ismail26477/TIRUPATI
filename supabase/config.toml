@@ -1,0 +1,4 @@
+project_id = ""
+
+[functions.send-reset-link]
+verify_jwt = false
